@@ -34,9 +34,11 @@ After initiating the project, senior managers or supervisors can easily understa
 (Green: on schedule, Yellow: slight delay, Red: extremely delay or error occurred).
 
 ![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/GanttChart.png)
+
 ↑ Gantt Chart of ProjectLink
 
 ![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/TimeTable.png)
+
 ↑ Time Table of ProjectLink
 
 PM can track the process by using the embedded "Gantt Chart" function or even through the "Time Table".
