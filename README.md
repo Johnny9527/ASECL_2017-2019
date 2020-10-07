@@ -8,7 +8,7 @@
 
 * During my time working in ASECL, I well mastered the main structure of PTC Windchill PLM System in less than three months and was able to deliver internal users' training and hold requirements session within six months. For within a year, I also designed several customized functions by using JAVA as a programming language. [For more information, please refers to "MyCustomizedFunctions.md"]
 
-* I self-considered played a good role working as a PLM System Engineer in ASECL that I was asked to re-consider my resigning and stay in ASECL by the department manager, even I had decided to leave the company.
+* I self-considered played a good role working as a PLM System Engineer in ASECL that I was asked to reconsider my resignation and stay in ASECL by the department manager, even I had decided to leave the company.
 
 ### Disclaimer:
 
