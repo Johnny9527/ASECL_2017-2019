@@ -109,5 +109,41 @@ In this customized function, I added a "Custom Action" to the "Customized Menu" 
   ![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step9.png)
 
 
-## Show other Web Page in Info Page
+## Redirect to another Information System through PLM
+
+In this customized function, I linked one of the internal information systems directly from Windchill PLM System by writing a JSP.
+ 
+* Step 1: Add a custom action in "actionModels.xml".
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Redirect%20to%20another%20Information%20System%20through%20PLM/Step1.png)
+
+* Step 2: Define the action in "action.xml".
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Redirect%20to%20another%20Information%20System%20through%20PLM/Step2.png)
+
+* Step 3: Create and define a JSP.
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Redirect%20to%20another%20Information%20System%20through%20PLM/Step3.png)
+
+* Step 4: Modify ".properties".
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Redirect%20to%20another%20Information%20System%20through%20PLM/Step4.png)
+
+* Step 5: Result demo.
+
+* Choose a "Part".
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Redirect%20to%20another%20Information%20System%20through%20PLM/Step5.png)
+
+* Add a new tab.
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Redirect%20to%20another%20Information%20System%20through%20PLM/Step6.png)
+
+* Select the new custom action, which will redirect to another internal information system.
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Redirect%20to%20another%20Information%20System%20through%20PLM/Step7.png)
+
+* Return result.
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Redirect%20to%20another%20Information%20System%20through%20PLM/Step8.png)
 
