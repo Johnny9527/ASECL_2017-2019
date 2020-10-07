@@ -15,7 +15,7 @@ PartsLink, which mainly controls parts, and MPMLink, which mainly controls routi
 Like Oracle Agile PLM System, PTC Windchill PLM System is also able to communicate with other information systems such as Manufacturing 
 Execution System (MES) and Enterprise Resource Planning (ERP) System in data transactions within the company.
 
-[專案架構圖]
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/ProjectStructureGraph.png)
 
 In each "Project Plan" usually includes several "Summary Activity" and "Milestone". Under "Summary Activity" contains multiples "Activity",
 and each "Activity" comes along with a corresponding "Deliverable". In a real use case,  the Project Manager (PM) will decide the structure 
@@ -23,25 +23,25 @@ of "Project Plan" and assign detail for each "Task" (Activity) to different engi
 will have to give feedback or hang out a report through the specific "Deliverable". Meanwhile, PM can also monitor the progress of the project 
 by setting up a few milestones, to make sure the process is going under control.
 
-[資源關係圖]
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/ResourceRelatedGraph.png)
 
 For every "Activity" of the project, PM can not only assign the human resource but also establish usage plans for other resources such as 
 required equipment or material.
 
-[啟動專案圖]
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/ProjectInitiation.png)
 
 After initiating the project, senior managers or supervisors can easily understand the status of each project by checking the "status light" 
 (Green: on schedule, Yellow: slight delay, Red: extremely delay or error occurred).
 
-[Gantt Chart圖]
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/GanttChart.png)
 ↑ Gantt Chart of ProjectLink
 
-[Time Table圖]
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/TimeTable.png)
 ↑ Time Table of ProjectLink
 
 PM can track the process by using the embedded "Gantt Chart" function or even through the "Time Table".
 
-[MS Project圖]
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/MSProject.png)
 
 ProjectLink module of Windchill PLM System also provides integration with traditional "Microsoft Project", supporting those PMs who are used to 
 the old-school project maintaining way. They can easily upload or download the whole "Project Plan" in only one click.
