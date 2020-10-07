@@ -68,5 +68,46 @@ This customized function shows how to add an "MVC Table" to the webpage.
 
 ## Custom Action on Customized Menu
 
+In this customized function, I added a "Custom Action" to the "Customized Menu" of a "Part".
+
+* Step 1: Find the "PartInfoBuilder".
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step1.png)
+
+* Step 2: Find the "PartClient-actionModels.xml" which controls the third-level navigation menu.
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step2.png)
+
+* Step 3: Add the resource bundle and modify my "actionModels.xml".
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step3.png)
+
+* Step 4: Modify my "action.xml".
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step4.png)
+
+* Step 5: Modify ".properties".
+
+![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step5.png)
+
+* Step 6: Result demo.
+
+  * Choose a "Part".
+
+  ![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step6.png)
+
+  * Add a new tab.
+
+  ![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step7.png)
+
+  * Select the custom action.
+
+  ![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step8.png)
+
+  * Return with the customized table.
+
+  ![](https://github.com/Johnny9527/ASECL_2017-2019/blob/main/Pictures/Custom%20Action%20on%20Customized%20Menu/Step9.png)
+
+
 ## Show other Web Page in Info Page
 
