@@ -12,4 +12,4 @@
 
 ### Disclaimer:
 
-* For further information, please refers to other files. However, according to the Non-disclosure agreement (NDA), I am not allowed to share confidential documents or code to the public. Therefore, I will only share part of my works in this depository. For the code I shared, will not affect the regular operation or profit of ASECL.
+* For further information, please refers to other files. However, according to the Non-disclosure agreement (NDA), I am not allowed to share confidential documents or code to the public. Therefore, I will only share part of my works in this depository. For the code and information I shared, will not affect the regular operation or profit of ASECL.
